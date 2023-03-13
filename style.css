@@ -1,0 +1,106 @@
+.it-bg-1 {
+    border-radius: 2rem;
+    width: 15%;
+}
+
+.it-bg-2 {
+    background: hsl(322, 100%, 66%);
+    border-radius: 2rem;
+}
+
+.nav-section-1 {
+    background: hsl(193, 100%, 96%);
+}
+
+.small-1 {
+    width: 100%;
+}
+
+.small-2 {
+    width: 90%;
+}
+
+.small-3 {
+    width: 90%;
+}
+
+.sec-2 {
+    border-radius: 1rem;
+}
+
+.sec-3 {
+    border-radius: 1rem;
+}
+
+.sec-4{
+    border-radius: 1rem;
+}
+
+/* body{
+    text-align: center;
+}
+
+span{
+    display: inline-block;
+}
+
+.img-logo{
+    color: white;
+} */
+
+.footer-colour {
+    background: hsl(192, 100%, 9%);
+}
+
+.copy-right {
+    margin-top: 12rem;
+    font-size: 12px;
+}
+
+.fir-foot{
+    font-size: 13px;
+    margin-top: 5rem;
+}
+
+.sec-foot{
+    font-size: 13px;
+    margin-top: 7rem;
+}
+
+.thd-foot{
+    font-size: 13px;
+    margin-top: 7rem;
+}
+
+.frt-foot{
+    /* font-size: 13px; */
+    margin-top: 7rem;
+}
+
+.boxfooter{
+    flex: 2rem;
+    height: 12rem;
+    width: 25rem;
+    background-color: white;
+    margin-left: 33rem;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 3px 1px hsl(0, 3%, 85%);
+    position: relative;
+    top: 99px;
+}
+
+.foot-btn{
+    padding: 30rem;
+    margin-right: 5rem;
+    margin-left: 5rem;
+    background: hsl(322, 100%, 66%);
+    border-radius: 2rem;
+    margin-top: 1rem;
+}
+
+.build{
+    font-size: 20px;
+    color: hsl(192, 100%, 9%);
+}
